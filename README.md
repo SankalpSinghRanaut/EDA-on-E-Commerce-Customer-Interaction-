@@ -1,5 +1,3 @@
-Here’s a concise analysis and business-oriented summary of **E-Commerce Dataset Report**.
-
 ## Dataset Overview
 
 The dataset contains customer interaction data from marketing campaigns, likely focused on **email campaign engagement tracking**.
